@@ -49,7 +49,7 @@ The second variation of "find" is "-size", which finds files of specific sizes. 
 ./travel_guides/berlitz2/Portugal-WhereToGo.txt
 ```
 
-![Image](FIND-100Kb)
+![Image](FIND-100Kb.png)
 
 Here I used the command to find all files that was above 100 Kilobytes in size. This can help you find larger files that would be more important.
 
@@ -77,12 +77,8 @@ Here I used the command to find all files that was above 100 Kilobytes in size. 
 ./non-fiction/OUP/Kauffman/ch7.txt
 ./non-fiction/OUP/Rybczynski/ch1.txt
 ./non-fiction/OUP/Rybczynski/ch2.txt
-./travel_guides/berlitz1/HandRHawaii.txt
-./travel_guides/berlitz1/HandRIsrael.txt
-./travel_guides/berlitz1/HandRJamaica.txt
-./travel_guides/berlitz1/HandRMadrid.txt
-./travel_guides/berlitz1/HistoryDublin.txt
 ```
 
+![Image](FIND-10-50Kb.png)
 
 
