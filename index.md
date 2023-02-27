@@ -15,6 +15,19 @@ The first variation of "find" is the "-name", which finds the file or directory 
 
 Here I used the "find -name" command to find all files that contained the pretext "Cuba", using * to account for different aftertext or types of file.
 
+```
+[cs15lwi23aog@ieng6-202]:written_2:318$ find . -name "*n.txt"
+./travel_guides/berlitz1/HandRLisbon.txt
+./travel_guides/berlitz1/HistoryDublin.txt
+./travel_guides/berlitz1/HistoryJapan.txt
+./travel_guides/berlitz1/IntroDublin.txt
+./travel_guides/berlitz1/IntroJapan.txt
+./travel_guides/berlitz1/WhatToDublin.txt
+./travel_guides/berlitz1/WhatToJapan.txt
+./travel_guides/berlitz1/WhereToDublin.txt
+./travel_guides/berlitz1/WhereToJapan.txt
+```
+
 ![Image](FIND-N.png)
 
 Here I modified the command to find all .txt files that ended with a lowercase "n".
