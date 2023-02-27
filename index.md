@@ -79,6 +79,6 @@ Here I used the command to find all files that was above 100 Kilobytes in size. 
 ./non-fiction/OUP/Rybczynski/ch2.txt
 ```
 
-![Image](FIND-10-50Kb.png)
+![Image](FIND-10~50Kb.png)
 
 
