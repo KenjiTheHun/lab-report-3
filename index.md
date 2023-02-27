@@ -1,8 +1,8 @@
 # Lab Report 3 - Terminal Command Lines (Week 5)
-## "find -name" Usage
 For this lab report, I chose to use the "find" command to demonstrate the variety of ways that it can be utilized to navigate your directories and files.
 
-The first variation of "find" is the "-name", which finds the file or directory that has the matching string of characters.
+## "find -name" Usage
+The first variation of "find" is "-name", which finds the file or directory that has the matching string of characters. I found the options for this commands through asking ChatGPT, and it gave out several options.
 
 ```
 [cs15lwi23aog@ieng6-202]:written_2:317$ find . -name "Cuba*.*"
@@ -31,3 +31,6 @@ Here I used the "find -name" command to find all files that contained the pretex
 ![Image](FIND-N.png)
 
 Here I modified the command to find all .txt files that ended with a lowercase "n".
+
+## "find -size" Usage
+The second variation of "find" is "-size", which finds files of specific sizes. I found this option from search on Google and on this website https://www.tecmint.com/35-practical-examples-of-linux-find-command/
